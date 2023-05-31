@@ -422,15 +422,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 
-
 ## Output screen shots of Serial port utility   :
 
- ![iot3 1](https://github.com/abdulwasih2003/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/91781810/d0f2e7db-d474-4fa0-8990-b14e2abc6145)
-![iot3 2](https://github.com/abdulwasih2003/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/91781810/f71fca4d-2e9d-404c-ad85-cbdd12b00cfd)
+![iot3 1](https://github.com/abdulwasih2003/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/91781810/865b79b7-f80e-4416-8750-909cee81e20c)
 
- ![iot3 3](https://github.com/abdulwasih2003/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/91781810/748dc091-95a1-4d8a-88e5-d46cfa49f666)
+![iot3 2](https://github.com/abdulwasih2003/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/91781810/70eb9279-a9f1-49b8-a013-57ec72b6effd)
 
- ![iot3 4](https://github.com/abdulwasih2003/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/91781810/bcc18097-8771-4eb4-b300-6e2a0b0e227f)
+![iot3 3](https://github.com/abdulwasih2003/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/91781810/fc415d9a-e00d-4cbb-9f6e-e0e9065a6d7a)
+
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
